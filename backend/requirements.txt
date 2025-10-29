@@ -1,0 +1,11 @@
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+diffusers==0.20.0
+transformers==4.33.2
+accelerate==0.22.0
+safetensors==0.3.3
+huggingface-hub==0.16.4
+numpy==1.24.4
+pillow==10.0.0
+flask==3.1.2
